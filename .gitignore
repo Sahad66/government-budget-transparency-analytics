@@ -29,3 +29,5 @@ desktop.ini
 # IDE
 .vscode/
 .idea/
+
+data/inspection/
