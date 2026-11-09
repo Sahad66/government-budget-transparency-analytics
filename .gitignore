@@ -1,33 +1,27 @@
-﻿# Python
+# Python environment and cache
 .venv/
 venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
 
-# Environment and secrets
+# Secrets
 .env
 .env.*
 !.env.example
 
-# Power BI temporary files
-*.tmp
-*.bak
-
-# System files
+# System and IDE files
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Logs
-*.log
-
-# PostgreSQL backups
-*.backup
-*.dump
-
-# IDE
 .vscode/
 .idea/
 
-data/inspection/
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Database backups
+*.backup
+*.dump
