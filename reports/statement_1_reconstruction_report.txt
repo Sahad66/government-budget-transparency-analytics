@@ -1,0 +1,33 @@
+=================================================================
+STATEMENT 1 RECONSTRUCTION REPORT
+=================================================================
+Total reconstructed rows: 36
+Page 1 rows: 20
+Page 2 rows: 16
+
+Section-wise row counts:
+Expenditure: 13
+Financing: 11
+Revenue and Foreign Grants: 7
+Summary: 5
+
+Validation Results:
+PASS: Expected row count is 36
+PASS: No missing descriptions
+PASS: No duplicate complete records
+PASS: No missing financial values
+PASS: Only PDF pages 1 and 2
+PASS: Unit classification is correct
+PASS: Total Expenditure Actual = 633314
+PASS: Loans & Advances Actual = -156
+PASS: Short-Term Debt Actual = -8041
+PASS: Negative Non-Tax Revenue balance preserved
+
+Negative financial values:
+Negative numeric cells: 40
+
+Output:
+E:\study\data analyst\Project\Project_01_Government_Budget_Analytics\data\reconstructed\statement_1_reconstructed.csv
+
+Final status:
+ALL CHECKS PASSED

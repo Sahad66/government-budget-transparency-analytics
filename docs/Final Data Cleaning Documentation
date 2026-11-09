@@ -1,0 +1,39 @@
+# Statement 2 — Final Data Cleaning Documentation
+
+## Objective
+Prepare a clean, validated ministry-level government budget dataset without modifying the original raw or standardized files.
+
+## Input
+`data/transformed/statement_2_standardized.csv`
+
+## Output
+`data/cleaned/statement_2_final_cleaned.csv`
+
+## Cleaning Activities
+1. Identified and removed three repeated header rows.
+2. Standardized ministry code and ministry name text.
+3. Converted financial columns to numeric data types.
+4. Preserved the PDF-verified negative Operating Expenditure of Power Division.
+5. Recalculated expenditure reconciliation.
+6. Generated missing-value and final cleaning reports.
+7. Preserved the original and standardized input files.
+
+## Power Division Source Correction
+- Ministry Code: 156
+- Ministry: Power Division
+- Operating Expenditure: -16.9959 BDT Crore
+- Source Unit: Taka in Thousands
+- Reconciliation was checked against actual and development expenditure.
+
+## Output Reports
+- `reports/statement_2_final_cleaning_report.txt`
+- `reports/statement_2_missing_values.csv`
+
+## Data Integrity Rules
+- Missing values were not automatically replaced with zero.
+- Negative financial values were preserved.
+- Original source data was not overwritten.
+- Financial reconciliation was checked with a tolerance of 0.0002 BDT Crore.
+
+## Status
+Pending execution and verification of actual script output.

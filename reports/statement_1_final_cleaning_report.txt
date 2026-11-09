@@ -1,0 +1,28 @@
+STATEMENT 1 FINAL CLEANING REPORT
+==================================================
+Original rows: 36
+Final rows: 36
+BDT Crore rows: 34
+Percent of GDP rows: 2
+Negative numeric cells: 40
+
+VALIDATION RESULTS
+PASS: Required columns exist
+PASS: Expected row count is 36
+PASS: No missing descriptions
+PASS: No duplicate complete records
+PASS: No missing financial values
+PASS: Financial columns are numeric
+PASS: Unit classification is correct
+PASS: Fiscal year is 2024-25
+PASS: Source status is Draft
+PASS: Source pages are valid
+PASS: Negative values preserved
+
+Financial values were preserved from the reconstructed source.
+No missing values were imputed.
+No negative values were converted to positive.
+No source financial values were recalculated.
+
+Output file: E:\study\data analyst\Project\Project_01_Government_Budget_Analytics\data\cleaned\statement_1_final_cleaned.csv
+Final status: ALL CHECKS PASSED

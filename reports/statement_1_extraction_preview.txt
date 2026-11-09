@@ -1,0 +1,178 @@
+
+================================================================================
+PAGE 1 ORIGINAL TEXT
+================================================================================
+1
+Draft
+Government of Peoples' Republic of Bangladesh
+Statement 1: Budget and Accounts at a Glance
+Fiscal Year : 2024-25
+(Taka in Crore)
+Description Budget Revised Budget Actual Balance Balance Actual / Actual /
+2024-25 2024-25 2024-25 (Budget) (Revised) Budget (%) Revised (%)
+1 2 3 4 5 = 2 - 4 6 = 3 - 4 7 = 4 / 2 8 = 4 / 3
+Revenue and Foreign Grants
+Revenues (Statement I) 5,40,972 5,17,976 4,36,875 1,04,097 81,101 80 84
+Tax Revenue 4,94,999 4,78,000 3,77,697 1,17,302 1,00,303 76 79
+NBR Tax Revenue 4,80,000 4,63,500 3,68,682 1,11,318 94,818 76 79
+Non-NBR Tax Revenue 14,999 14,500 9,015 5,984 5,485 60 62
+Non-Tax Revenue 45,973 39,976 59,178 - 13,205 - 19,202 128 148
+Foreign Grants/1 (Statement V) 4,400 4,400 4,817 - 417 - 417 109 109
+Total : 545372 522376 441692 103680 80684 81 85
+Expenditure
+Operating Expenditure 5,06,971 5,06,002 4,76,302 30,669 29,700 94 94
+Recurrent Expenditure (Statement III) 4,68,983 4,82,876 4,59,753 9,230 23,123 98 95
+of which Interest 1,12,655 1,20,655 1,34,430 - 21,775 - 13,775 119 111
+Domestic Interest 93,000 99,500 1,16,617 - 23,617 - 17,117 125 117
+Foreign Interest 20,500 22,000 17,812 2,688 4,188 86 81
+Capital Expenditure/2 (Statement IV) 37,989 23,126 16,549 21,440 6,577 43 71
+Net Outlay for Food Account Operation (Statement VIII) 119 1,008 439 - 320 569 368 43
+Loans & Advances (Net)/3 (Statement VIA) 8,457 5,391 - 156 0 0 - 1 - 2
+Development Expenditure 2,81,453 2,31,599 1,56,729 1,24,724 74,870 55 67
+Scheme/4 (Statement X) 5,943 4,653 3,136 2,807 1,517 52 67
+Non-ADP Special Project (Statement VIA) 7,627 8,371 7,478 149 893 98 89
+Annual Development Programme/5 (Statement IX) 2,65,000 2,16,000 1,44,356 1,20,644 71,644 54 66
+Non-ADP FFW and Transfer/6 (Statement X) 2,884 2,575 1,758 1,126 817 61 68
+
+================================================================================
+PAGE 2 ORIGINAL TEXT
+================================================================================
+2
+(Taka in Crore)
+Description Budget Revised Budget Actual Balance Balance Actual / Actual /
+2024-25 2024-25 2024-25 (Budget) (Revised) Budget (%) Revised (%)
+1 2 3 4 5 = 2 - 4 6 = 3 - 4 7 = 4 / 2 8 = 4 / 3
+Total Expenditure : 797000 744000 633314 163686 110686 80 85
+Overall Deficit (Including Grants) : -251628.0 -221624 -191622 0 0 76 87
+(In percent of GDP) : - 4.5 - 4.0 - 3.5 - 0.7 - 0.5 84.4 87.5
+Overall Deficit (Excluding Grants) : -256028 -226024 -196439 0 0 77 87
+(In percent of GDP) : - 4.6 - 4.1 - 3.5 - 0.7 - 0.6 84.8 85.4
+Financing
+Foreign Borrowing-Net 90,700 1,04,600 64,774 25,926 39,826 71 61
+Foreign Borrowing (Statement V) 1,33,910 1,44,810 99,163 34,747 45,647 74 68
+Foreign Debt Repayment (Statement IX) - 43,210 - 40,210 - 34,389 0 0 79 85
+Domestic Borrowing (Statement VIB) 1,60,900 1,17,000 1,28,529 32,371 - 11,529 79 109
+Borrowing from Banking System (Net) 1,37,500 99,000 1,14,161 23,339 - 15,161 83 115
+Long-Term Debt (Net) 72,682 1,14,163 1,22,202 - 49,520 - 8,039 168 107
+Short-Term Debt (Net) 64,818 - 15,163 - 8,041 0 0 - 12 53
+Non-Bank Borrowing (Net) 23,400 18,000 14,368 9,032 3,632 61 79
+National Savings Schemes (Net) 15,400 14,000 3,401 11,999 10,599 22 24
+Others (Net)/7 (Statement VII) 8,000 4,000 10,967 - 2,967 - 6,967 137 274
+Total - Financing : 251600 221600 193303 58297 28297 77 87
+
+================================================================================
+PAGE 1 LINES-BASED TABLE
+================================================================================
+Description                                     Budget\n2024-25                             Revised Budget\n2024-25                                    Actual\n2024-25                                    Balance\n(Budget)                               Balance\n(Revised)     Actual /\nBudget (%)    Actual /\nRevised (%)
+          1                                                   2                                                   3                                                  4                                            5 = 2 - 4                                        6 = 3 - 4                7 = 4 / 2                8 = 4 / 3
+        NaN 5,40,972\n4,94,999\n4,80,000\n14,999\n45,973\n4,400 5,17,976\n4,78,000\n4,63,500\n14,500\n39,976\n4,400 4,36,875\n3,77,697\n3,68,682\n9,015\n59,178\n4,817 1,04,097\n1,17,302\n1,11,318\n5,984\n- 13,205\n- 417 81,101\n1,00,303\n94,818\n5,485\n- 19,202\n- 417 80\n76\n76\n60\n128\n109 84\n79\n79\n62\n148\n109
+        NaN                                              545372                                              522376                                             441692                                               103680                                            80684                       81                       85
+
+================================================================================
+PAGE 2 LINES-BASED TABLE
+================================================================================
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Description                                                                       Budget\n2024-25                                                                   Revised Budget\n2024-25                                                                        Actual\n2024-25                                                      Balance\n(Budget)                                                        Balance\n(Revised)                       Actual /\nBudget (%)                      Actual /\nRevised (%)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           1                                                                                     2                                                                                         3                                                                                      4                                                              5 = 2 - 4                                                                 6 = 3 - 4                                  7 = 4 / 2                                  8 = 4 / 3
+Total Expenditure :\nOverall Deficit (Including Grants) :\n(In percent of GDP) :\nOverall Deficit (Excluding Grants) :\n(In percent of GDP) :\nFinancing\nForeign Borrowing-Net\nForeign Borrowing (Statement V)\nForeign Debt Repayment (Statement IX)\nDomestic Borrowing (Statement VIB)\nBorrowing from Banking System (Net)\nLong-Term Debt (Net)\nShort-Term Debt (Net)\nNon-Bank Borrowing (Net)\nNational Savings Schemes (Net)\nOthers (Net)/7 (Statement VII)\nTotal - Financing :                                                                                797000                                                                                    744000                                                                                 633314                                                                 163686                                                                    110686                                         80                                         85
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN                                                                             -251628.0                                                                                   -221624                                                                                -191622                                                                      0                                                                         0                                         76                                         87
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN                                                                                 - 4.5                                                                                     - 4.0                                                                                  - 3.5                                                                  - 0.7                                                                     - 0.5                                       84.4                                       87.5
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN                                                                               -256028                                                                                   -226024                                                                                -196439                                                                      0                                                                         0                                         77                                         87
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN                                                                                 - 4.6                                                                                     - 4.1                                                                                  - 3.5                                                                  - 0.7                                                                     - 0.6                                       84.8                                       85.4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN 90,700\n1,33,910\n- 43,210\n1,60,900\n1,37,500\n72,682\n64,818\n23,400\n15,400\n8,000 1,04,600\n1,44,810\n- 40,210\n1,17,000\n99,000\n1,14,163\n- 15,163\n18,000\n14,000\n4,000 64,774\n99,163\n- 34,389\n1,28,529\n1,14,161\n1,22,202\n- 8,041\n14,368\n3,401\n10,967 25,926\n34,747\n0\n32,371\n23,339\n- 49,520\n0\n9,032\n11,999\n- 2,967 39,826\n45,647\n0\n- 11,529\n- 15,161\n- 8,039\n0\n3,632\n10,599\n- 6,967 71\n74\n79\n79\n83\n168\n- 12\n61\n22\n137 61\n68\n85\n109\n115\n107\n53\n79\n24\n274
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN                                                                                251600                                                                                    221600                                                                                 193303                                                                  58297                                                                     28297                                         77                                         87
+
+================================================================================
+PAGE 1 TEXT-BASED TABLE
+================================================================================
+                Description                        NaN Budget Revis ed Budget   Actual   B   alance Ba     lance Actua   l / Actu al /
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                        NaN                          2       024-25   2024-25  2024-25   ( Budget) (Re   vised) Budget (%) Revise d (%
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                          1                        NaN            2         3        4 NaN 5 = 2 - 4 6 = 3 - 4 7 = 4 /    2 8 = 4  / 3
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+           Revenue and Fore                 ign Grants          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+     Revenues (Statement I)                        NaN     5,40,972  5,17,976 4,36,875 NaN    1,04,097          81,101         80   84
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                Tax Revenue                        NaN     4,94,999  4,78,000 3,77,697 NaN    1,17,302        1,00,303         76   79
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+            NBR Tax Revenue                        NaN     4,80,000  4,63,500 3,68,682 NaN    1,11,318          94,818         76   79
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+         Non-NBR Tax Revenu                          e       14,999    14,500    9,015 NaN       5,984           5,485         60   62
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+            Non-Tax Revenue                        NaN       45,973    39,976   59,178 NaN    - 13,205        - 19,202        128  148
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+Foreign Grants/1 (Statement                         V)        4,400     4,400    4,817 NaN       - 417           - 417        109  109
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                        NaN                    Total :       545372    522376   441692 NaN      103680           80684         81   85
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                Expenditure                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+      Operating Expenditure                        NaN     5,06,971  5,06,002 4,76,302 NaN      30,669          29,700         94   94
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+   Recurrent Expenditure (S              tatement III)     4,68,983  4,82,876 4,59,753 NaN       9,230          23,123         98   95
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+          of which Interest                        NaN     1,12,655  1,20,655 1,34,430 NaN    - 21,775        - 13,775        119  111
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                   Domestic                   Interest       93,000    99,500 1,16,617 NaN    - 23,617        - 17,117        125  117
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+                 Foreign In                     terest       20,500    22,000   17,812 NaN       2,688           4,188         86   81
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+  Capital Expenditure/2 (St                atement IV)       37,989    23,126   16,549 NaN      21,440           6,577         43   71
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+Net Outlay for Food Account Operation (Statement VIII)          119     1,008      439 NaN       - 320             569        368   43
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+Loans & Advances (Net)/3 (S              tatement VIA)        8,457     5,391    - 156 NaN           0             0 -        1 -    2
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+    Development Expenditure                        NaN     2,81,453  2,31,599 1,56,729 NaN    1,24,724          74,870         55   67
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+     Scheme/4 (Statement X)                        NaN        5,943     4,653    3,136 NaN       2,807           1,517         52   67
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+    Non-ADP Special Project            (Statement VIA)        7,627     8,371    7,478 NaN         149             893         98   89
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+    Annual Development Prog     ramme/5 (Statement IX)     2,65,000  2,16,000 1,44,356 NaN    1,20,644          71,644         54   66
+                        NaN                        NaN          NaN       NaN      NaN NaN         NaN             NaN        NaN  NaN
+      Non-ADP FFW and Trans        fer/6 (Statement X)        2,884     2,575    1,758 NaN       1,126             817         61   68
+
+================================================================================
+PAGE 2 TEXT-BASED TABLE
+================================================================================
+               Description            NaN           NaN NaN Budget Revis ed Budget   Actual  Ba   lance Ba   l    ance Actua   l / Actu al /
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                       NaN            NaN           NaN NaN      2024-25   2024-25  2024-25  (B udget) (Re   v  ised) Budget (%) Revise d (%
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                         1            NaN           NaN NaN            2         3        4   5  = 2 - 4 6   = 3 - 4 7 = 4 /    2 8 = 4  / 3
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                       NaN          Total   Expenditure   :       797000    744000   633314 NaN     163686 NaN        110686         80   85
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                   Overall Deficit (Inclu  ding Grants)   :    -251628.0   -221624  -191622 NaN          0 NaN             0         76   87
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                       NaN        (In per  cent of GDP)   :        - 4.5     - 4.0    - 3.5 NaN      - 0.7 NaN         - 0.5       84.4 87.5
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                   Overall Deficit (Exclu  ding Grants)   :      -256028   -226024  -196439 NaN          0 NaN             0         77   87
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                       NaN        (In per  cent of GDP)   :        - 4.6     - 4.1    - 3.5 NaN      - 0.7 NaN         - 0.6       84.8 85.4
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                      cing            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+             Borrowing-Net            NaN           NaN NaN       90,700  1,04,600   64,774 NaN     25,926 NaN        39,826         71   61
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+ gn Borrowing (Statement V              )           NaN NaN     1,33,910  1,44,810   99,163 NaN     34,747 NaN        45,647         74   68
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+  gn Debt Repayment (State       ment IX)           NaN NaN     - 43,210  - 40,210 - 34,389 NaN          0 NaN             0         79   85
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+c Borrowing (Statement VIB              )           NaN NaN     1,60,900  1,17,000 1,28,529 NaN     32,371   -        11,529         79  109
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+  wing from Banking System          (Net)           NaN NaN     1,37,500    99,000 1,14,161 NaN     23,339   -        15,161         83  115
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+      Long-Term Debt (Net)            NaN           NaN NaN       72,682  1,14,163 1,22,202   -     49,520   -         8,039        168  107
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+     Short-Term Debt (Net)            NaN           NaN NaN       64,818  - 15,163  - 8,041 NaN          0 NaN           0 -         12   53
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+      Bank Borrowing (Net)            NaN           NaN NaN       23,400    18,000   14,368 NaN      9,032 NaN         3,632         61   79
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+  National Savings Schemes          (Net)           NaN NaN       15,400    14,000    3,401 NaN     11,999 NaN        10,599         22   24
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+ Others (Net)/7 (Statement           VII)           NaN NaN        8,000     4,000   10,967   -      2,967   -         6,967        137  274
+                       NaN            NaN           NaN NaN          NaN       NaN      NaN NaN        NaN NaN           NaN        NaN  NaN
+                       NaN          Total - Financing : NaN       251600    221600   193303 NaN      58297 NaN         28297         77   87

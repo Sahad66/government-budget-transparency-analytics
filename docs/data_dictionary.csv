@@ -1,0 +1,5 @@
+﻿original_name,standard_name,description,data_type,unit,source,nullable,validation_rule
+Ministry Code,ministry_code,Unique code assigned to a ministry or division,TEXT,N/A,Statement 2,To be verified,Check consistency and uniqueness
+Ministry Name,ministry_name,Name of the ministry or division,TEXT,N/A,Statement 2,To be verified,Should not be blank for ministry records
+Total Budget,total_budget,Total budget allocated to the ministry or division,DECIMAL,Taka in Thousands,Statement 2,To be verified,Check numeric values and source definitions
+Actual Expenditure,actual_expenditure,Actual expenditure reported for the financial year,DECIMAL,Taka in Thousands,Statement 2,To be verified,Check numeric values and source definitions

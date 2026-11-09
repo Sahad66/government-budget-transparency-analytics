@@ -1,0 +1,34 @@
+STATEMENT 1 PDF EXTRACTION REPORT
+======================================================================
+PDF File: FY2024-25_Statement_1_Budget_and_Accounts.pdf
+Extraction Date: 2026-11-05 17:09:50.465256
+Total PDF Pages: 2
+
+PAGE 1
+Text extraction: 1757 characters
+Lines-based tables: 1
+Text-based tables: 1
+
+PAGE 2
+Text extraction: 1328 characters
+Lines-based tables: 1
+Text-based tables: 1
+
+======================================================================
+EXTRACTION SUMMARY
+======================================================================
+Total pages: 2
+Lines-based tables: 2
+Text-based tables: 2
+
+Output folders:
+E:\study\data analyst\Project\Project_01_Government_Budget_Analytics\data\inspection\statement_1\extracted_text
+E:\study\data analyst\Project\Project_01_Government_Budget_Analytics\data\inspection\statement_1\tables_lines
+E:\study\data analyst\Project\Project_01_Government_Budget_Analytics\data\inspection\statement_1\tables_text
+E:\study\data analyst\Project\Project_01_Government_Budget_Analytics\data\inspection\statement_1\word_coordinates
+
+IMPORTANT:
+This is an extraction inspection stage.
+No financial values were manually changed.
+No final cleaned dataset was generated.
+Original PDF remains unchanged.

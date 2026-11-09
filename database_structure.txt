@@ -1,0 +1,102 @@
+ table_schema |           table_name           |           column_name            |          data_type          | is_nullable 
+--------------+--------------------------------+----------------------------------+-----------------------------+-------------
+ analytics    | dim_fiscal_year                | fiscal_year_id                   | bigint                      | NO
+ analytics    | dim_fiscal_year                | financial_year                   | character varying           | NO
+ analytics    | dim_fiscal_year                | start_year                       | smallint                    | NO
+ analytics    | dim_fiscal_year                | end_year                         | smallint                    | NO
+ analytics    | dim_ministry                   | ministry_id                      | bigint                      | NO
+ analytics    | dim_ministry                   | ministry_code                    | character varying           | YES
+ analytics    | dim_ministry                   | ministry_name                    | character varying           | NO
+ analytics    | dim_ministry                   | created_at                       | timestamp without time zone | YES
+ analytics    | fact_government_budget_summary | government_budget_id             | bigint                      | NO
+ analytics    | fact_government_budget_summary | fiscal_year_id                   | bigint                      | NO
+ analytics    | fact_government_budget_summary | source_document_id               | bigint                      | NO
+ analytics    | fact_government_budget_summary | revised_budget                   | numeric                     | YES
+ analytics    | fact_government_budget_summary | actual_expenditure               | numeric                     | YES
+ analytics    | fact_government_budget_summary | original_budget_balance          | numeric                     | YES
+ analytics    | fact_government_budget_summary | actual_budget_percentage         | numeric                     | YES
+ analytics    | fact_government_budget_summary | operating_expenditure            | numeric                     | YES
+ analytics    | fact_government_budget_summary | development_expenditure          | numeric                     | YES
+ analytics    | fact_government_budget_summary | standard_unit                    | character varying           | NO
+ analytics    | fact_government_budget_summary | original_budget                  | numeric                     | YES
+ analytics    | fact_government_budget_summary | revised_budget_balance           | numeric                     | YES
+ analytics    | fact_government_budget_summary | actual_revised_percentage        | numeric                     | YES
+ analytics    | fact_ministry_budget           | ministry_budget_id               | bigint                      | NO
+ analytics    | fact_ministry_budget           | fiscal_year_id                   | bigint                      | NO
+ analytics    | fact_ministry_budget           | ministry_id                      | bigint                      | NO
+ analytics    | fact_ministry_budget           | source_document_id               | bigint                      | NO
+ analytics    | fact_ministry_budget           | targeted_revenue                 | numeric                     | YES
+ analytics    | fact_ministry_budget           | actual_revenue                   | numeric                     | YES
+ analytics    | fact_ministry_budget           | total_budget                     | numeric                     | YES
+ analytics    | fact_ministry_budget           | actual_expenditure               | numeric                     | YES
+ analytics    | fact_ministry_budget           | operating_expenditure            | numeric                     | YES
+ analytics    | fact_ministry_budget           | development_expenditure          | numeric                     | YES
+ analytics    | fact_ministry_budget           | budget_utilization_rate          | numeric                     | YES
+ analytics    | fact_ministry_budget           | budget_variance                  | numeric                     | YES
+ analytics    | fact_ministry_budget           | standard_unit                    | character varying           | NO
+ analytics    | source_documents               | source_document_id               | bigint                      | NO
+ analytics    | source_documents               | document_name                    | character varying           | NO
+ analytics    | source_documents               | report_title                     | character varying           | NO
+ analytics    | source_documents               | source_url                       | text                        | YES
+ analytics    | source_documents               | original_unit                    | character varying           | NO
+ analytics    | source_documents               | document_status                  | character varying           | NO
+ analytics    | source_documents               | financial_year                   | character varying           | NO
+ analytics    | source_documents               | created_at                       | timestamp without time zone | YES
+ staging      | statement_1_import             | description                      | text                        | NO
+ staging      | statement_1_import             | budget_2024_25                   | numeric                     | YES
+ staging      | statement_1_import             | revised_budget_2024_25           | numeric                     | YES
+ staging      | statement_1_import             | actual_2024_25                   | numeric                     | YES
+ staging      | statement_1_import             | balance_budget                   | numeric                     | YES
+ staging      | statement_1_import             | balance_revised                  | numeric                     | YES
+ staging      | statement_1_import             | actual_budget_pct                | numeric                     | YES
+ staging      | statement_1_import             | actual_revised_pct               | numeric                     | YES
+ staging      | statement_1_import             | section                          | text                        | YES
+ staging      | statement_1_import             | source_page                      | integer                     | YES
+ staging      | statement_1_import             | unit                             | character varying           | YES
+ staging      | statement_1_import             | fiscal_year                      | character varying           | YES
+ staging      | statement_1_import             | source_status                    | character varying           | YES
+ staging      | statement_1_import             | source_file                      | text                        | YES
+ staging      | statement_1_raw                | record_id                        | bigint                      | NO
+ staging      | statement_1_raw                | source_document_id               | integer                     | YES
+ staging      | statement_1_raw                | financial_year                   | character varying           | YES
+ staging      | statement_1_raw                | revised_budget                   | numeric                     | YES
+ staging      | statement_1_raw                | actual_expenditure               | numeric                     | YES
+ staging      | statement_1_raw                | budget_balance                   | numeric                     | YES
+ staging      | statement_1_raw                | actual_budget_percentage         | numeric                     | YES
+ staging      | statement_1_raw                | operating_expenditure            | numeric                     | YES
+ staging      | statement_1_raw                | development_expenditure          | numeric                     | YES
+ staging      | statement_2_import             | ministry_code                    | integer                     | NO
+ staging      | statement_2_import             | ministry_name                    | text                        | NO
+ staging      | statement_2_import             | targeted_revenue                 | numeric                     | YES
+ staging      | statement_2_import             | actual_revenue                   | numeric                     | YES
+ staging      | statement_2_import             | total_budget                     | numeric                     | YES
+ staging      | statement_2_import             | actual_expenditure               | numeric                     | YES
+ staging      | statement_2_import             | operating_expenditure            | numeric                     | YES
+ staging      | statement_2_import             | development_expenditure          | numeric                     | YES
+ staging      | statement_2_import             | source_page                      | integer                     | YES
+ staging      | statement_2_import             | source_table                     | integer                     | YES
+ staging      | statement_2_import             | targeted_revenue_original        | numeric                     | YES
+ staging      | statement_2_import             | actual_revenue_original          | numeric                     | YES
+ staging      | statement_2_import             | total_budget_original            | numeric                     | YES
+ staging      | statement_2_import             | actual_expenditure_original      | numeric                     | YES
+ staging      | statement_2_import             | operating_expenditure_original   | numeric                     | YES
+ staging      | statement_2_import             | development_expenditure_original | numeric                     | YES
+ staging      | statement_2_import             | source_unit                      | character varying           | YES
+ staging      | statement_2_import             | standard_unit                    | character varying           | YES
+ staging      | statement_2_import             | financial_year                   | character varying           | YES
+ staging      | statement_2_import             | conversion_check                 | numeric                     | YES
+ staging      | statement_2_import             | calculated_expenditure           | numeric                     | YES
+ staging      | statement_2_import             | expenditure_difference           | numeric                     | YES
+ staging      | statement_2_raw                | record_id                        | bigint                      | NO
+ staging      | statement_2_raw                | source_document_id               | integer                     | YES
+ staging      | statement_2_raw                | financial_year                   | character varying           | YES
+ staging      | statement_2_raw                | ministry_code                    | character varying           | YES
+ staging      | statement_2_raw                | ministry_name                    | character varying           | YES
+ staging      | statement_2_raw                | targeted_revenue                 | numeric                     | YES
+ staging      | statement_2_raw                | actual_revenue                   | numeric                     | YES
+ staging      | statement_2_raw                | total_budget                     | numeric                     | YES
+ staging      | statement_2_raw                | actual_expenditure               | numeric                     | YES
+ staging      | statement_2_raw                | operating_expenditure            | numeric                     | YES
+ staging      | statement_2_raw                | development_expenditure          | numeric                     | YES
+(98 rows)
+
